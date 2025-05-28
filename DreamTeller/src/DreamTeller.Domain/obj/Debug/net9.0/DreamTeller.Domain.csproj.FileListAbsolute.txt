@@ -1,0 +1,12 @@
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/bin/Debug/net9.0/DreamTeller.Domain.deps.json
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/bin/Debug/net9.0/DreamTeller.Domain.dll
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/bin/Debug/net9.0/DreamTeller.Domain.pdb
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/DreamTeller.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/DreamTeller.Domain.AssemblyInfoInputs.cache
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/DreamTeller.Domain.AssemblyInfo.cs
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/DreamTeller.Domain.csproj.CoreCompileInputs.cache
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/DreamTeller.Domain.sourcelink.json
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/DreamTeller.Domain.dll
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/refint/DreamTeller.Domain.dll
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/DreamTeller.Domain.pdb
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Domain/obj/Debug/net9.0/ref/DreamTeller.Domain.dll

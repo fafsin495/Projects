@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wmv0jnp4Eds=",
+  "dgSpecHash": "9q+uq8Q6UOI=",
   "success": true,
   "projectFilePath": "/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Worker/DreamTeller.Worker.csproj",
   "expectedPackageFiles": [
-    "/Users/afsinfatih21gmail.com/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
+    "/Users/afsinfatih21gmail.com/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/bouncycastle.cryptography/2.5.1/bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/cronos/0.11.0/cronos.0.11.0.nupkg.sha512",
@@ -12,6 +12,7 @@
     "/Users/afsinfatih21gmail.com/.nuget/packages/mailkit/4.12.1/mailkit.4.12.1.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/afsinfatih21gmail.com/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/microsoft.entityframeworkcore/9.0.5/microsoft.entityframeworkcore.9.0.5.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.5/microsoft.entityframeworkcore.abstractions.9.0.5.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.5/microsoft.entityframeworkcore.analyzers.9.0.5.nupkg.sha512",
@@ -59,18 +60,5 @@
     "/Users/afsinfatih21gmail.com/.nuget/packages/system.security.cryptography.pkcs/8.0.1/system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
     "/Users/afsinfatih21gmail.com/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 14.0.0 was resolved.",
-      "projectPath": "/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Worker/DreamTeller.Worker.csproj",
-      "warningLevel": 1,
-      "filePath": "/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Worker/DreamTeller.Worker.csproj",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }

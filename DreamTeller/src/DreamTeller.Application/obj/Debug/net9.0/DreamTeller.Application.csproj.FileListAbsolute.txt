@@ -1,0 +1,16 @@
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/bin/Debug/net9.0/DreamTeller.Application.deps.json
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/bin/Debug/net9.0/DreamTeller.Application.dll
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/bin/Debug/net9.0/DreamTeller.Application.pdb
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/bin/Debug/net9.0/DreamTeller.Domain.dll
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/bin/Debug/net9.0/DreamTeller.Domain.pdb
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTeller.Application.csproj.AssemblyReference.cache
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTeller.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTeller.Application.AssemblyInfoInputs.cache
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTeller.Application.AssemblyInfo.cs
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTeller.Application.csproj.CoreCompileInputs.cache
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTeller.Application.sourcelink.json
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTel.E4093C51.Up2Date
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTeller.Application.dll
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/refint/DreamTeller.Application.dll
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/DreamTeller.Application.pdb
+/Users/afsinfatih21gmail.com/Projects/DreamTeller/src/DreamTeller.Application/obj/Debug/net9.0/ref/DreamTeller.Application.dll
